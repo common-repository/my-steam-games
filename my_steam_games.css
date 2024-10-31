@@ -1,0 +1,21 @@
+#icon-my_steam_games  {
+    background:url(images/my_steam_games_icon32.png) no-repeat scroll 1px 1px transparent;
+}
+table.plugins tr#my-steam-games td.plugin-title {
+   background: url(images/my_steam_games_icon32.png) no-repeat scroll 0 4px transparent;
+   padding-left: 44px;
+}
+
+table.my_steam_settings {
+	width: 100%;
+}
+
+table.my_steam_settings td {
+	padding: 10px;
+	vertical-align: top;
+}
+
+table.my_steam_settings td.left {
+	width: 20%;
+	font-weight: bold;
+}

@@ -1,0 +1,1149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Steam Games\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-17 00:54+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Probach <info@deformed-design.de>\n"
+"Language-Team: Waaaghgasm <kontakt@waaaghgasm.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: \\\\192.168.1.30\\Dateien\\Webdesign\\htdocs\\wordpress\\wp-content\\plugins\\my_steam_games\n"
+"X-Poedit-SearchPath-0: \\\\192.168.1.30\\Dateien\\Webdesign\\htdocs\\wordpress\\wp-content\\plugins\\my_steam_games\n"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:2
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_pages.php:43
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:2
+msgid "My Steam Games"
+msgstr "My Steam Games"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:2
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_pages.php:44
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:33
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:41
+msgid "Account settings"
+msgstr "Accountoptionen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:45
+msgid "API Key"
+msgstr "API-Schlüssel"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:48
+msgid "You can get an API Key <a href=\"http://steamcommunity.com/dev/apikey\">here</a>."
+msgstr "Sie bekommen den API-Schlüssel <a href=\"http://steamcommunity.com/dev/apikey\">hier</a>."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:54
+msgid "Display settings"
+msgstr "Darstellungsoptionen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:58
+msgid "Cache duration"
+msgstr "Cache-Dauer"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:61
+msgid "How long should the list be cached (in seconds)."
+msgstr "Wie lang soll die Liste gecached werden (in Sekunden)."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:65
+msgid "Display icons"
+msgstr "Icons anzeigen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:67
+msgid "Large"
+msgstr "Groß"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:68
+msgid "Small"
+msgstr "Klein"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:69
+msgid "None"
+msgstr "Keine"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:74
+msgid "Display AppID"
+msgstr "AppID anzeigen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:76
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:82
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:89
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:96
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:103
+msgid "Yes"
+msgstr "Ja"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:80
+msgid "Display time played"
+msgstr "Gespielte Zeit anzeigen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:87
+msgid "Link images and titles to Steam store page"
+msgstr "Verlinke Bild und Titel mit der Seite des Steam Stores."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:94
+msgid "Show total number of games"
+msgstr "Zeige Anzahl der Spiele"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:101
+msgid "Use the default style from the plugin"
+msgstr "Verwende das Standardaussehen des Plugins"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:105
+msgid "You can theme the table in your themes stylesheet."
+msgstr "Sie können das Aussehen der Liste über das Stylesheet Ihres Themes festlegen."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:110
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:112
+msgid "Name DESC"
+msgstr "Name absteigend"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:113
+msgid "Name ASC"
+msgstr "Name aufsteigend"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:114
+msgid "Playtime DESC"
+msgstr "Spielzeit absteigend"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:115
+msgid "Playtime ASC"
+msgstr "Spielzeit aufsteigend"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:119
+msgid "Games per page"
+msgstr "Spiele je Seite"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:122
+msgid "How many games should be displayed on one page?"
+msgstr "Wie viele Spiele sollen auf einer Seite angezeigt werden?"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:129
+msgid "Ignore these games"
+msgstr "Ignoriere diese Spiele"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:131
+msgid "Insert the AppIDs you do not want to show in your list. One per line!"
+msgstr "Geben Sie die AppIDs der Spiele an die nicht in der Liste auftauchen sollen. Eine ID je Zeile!"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:134
+msgid "The AppID is visible in the Steam store url of the game."
+msgstr "Die AppID wird in der URL angezeigt wenn Sie das Spiel im Steam Store aufrufen."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_settings.php:139
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_pages.php:43
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:2
+msgid "Overview"
+msgstr "Übersicht"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:7
+msgid "Enjoy the plugin?"
+msgstr "Gefällt Ihnen das Plugin?"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:9
+msgid "If you like the plugin take a look at my <a href=\"http://steamcommunity.com/profiles/76561197979593044/wishlist/\">wishlist</a>. I would be happy to recieve an unexpected gift."
+msgstr "Wenn Ihnen das Plugin gefällt, schauen Sie doch auf meine <a href=\"http://steamcommunity.com/profiles/76561197979593044/wishlist/\">Wunschliste</a>. Ich würde mich über ein unerwartetes Geschenk freuen."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:14
+msgid "Changelog"
+msgstr "Letzte Änderungen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:28
+msgid "The Plugin"
+msgstr "Das Plugin"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:30
+msgid "This plugin allows you to embed a list of your steam games"
+msgstr "Das Plugin erlaubt es Ihnen eine Liste Ihrer Steam-Spiele einzubinden."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:31
+msgid "You need your <a href=\"http://steamidconverter.com/\">SteamID64</a> to list your games."
+msgstr "Sie benötigen Ihre <a href=\"http://steamidconverter.com/\">SteamID64</a> um Ihre Spiele abzurufen."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:32
+msgid "Plugin developed by <a href=\"http://www.waaaghgasm.de\">Waaaghgasm</a>."
+msgstr "Plugin entwickelt von <a href=\"http://www.waaaghgasm.de\">Waaaghgasm</a>."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:37
+msgid "Usage"
+msgstr "Verwendung"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:39
+msgid "Get your <a href=\"http://steamidconverter.com/\">SteamID64</a>."
+msgstr "Finden Sie Ihre <a href=\"http://steamidconverter.com/\">SteamID64</a>."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:40
+msgid "Create a new page and enter [my_steam_games=xxxxx]. Replace xxxxx with your SteamID64."
+msgstr "Erstellen Sie eine neue Seite und geben Sie [my_steam_games=xxxxx] ein. Ersetzen Sie xxxxx durch Ihre SteamID64."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:41
+msgid "Publish the page and enjoy!"
+msgstr "Veröffentlichen Sie die Seite und viel Vergnügen!"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:46
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:51
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:58
+msgid "Language"
+msgstr "Sprache"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:52
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:59
+msgid "Progress"
+msgstr "Fortschritt"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:53
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:60
+msgid "Contributor"
+msgstr "Beitragende"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:65
+msgid "English"
+msgstr "Englisch"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:66
+msgid "Core"
+msgstr "Quellcode-Sprache"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games_page_main.php:70
+msgid "German"
+msgstr "Deutsch"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:126
+msgid "Page:"
+msgstr "Seite:"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:233
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:244
+msgid "Icon"
+msgstr "Icon"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:235
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:246
+msgid "Name"
+msgstr "Name"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:237
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:248
+msgid "Time played"
+msgstr "Gespielte Zeit"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:308
+#, php-format
+msgid "%s hours"
+msgstr "%s Stunden"
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:323
+#, php-format
+msgid "%s games total."
+msgstr "%s Spiele insgesamt."
+
+#: \\192.168.1.30\Dateien\Webdesign\htdocs\wordpress\wp-content\plugins\my_steam_games/my_steam_games.php:328
+msgid "Could not get game list."
+msgstr "Konnte Spieleliste nicht abrufen."
+
+#~ msgid "If you like the plugin you can support my work in different ways:"
+#~ msgstr ""
+#~ "Wenn Sie das Plugin mögen können Sie es auf verschiedene Arten "
+#~ "unterstützen:"
+
+#~ msgid "Donate using PayPal"
+#~ msgstr "Via PayPal spenden"
+
+#~ msgid "Google Routeplanner"
+#~ msgstr "Google Routeplanner"
+
+#~ msgid "Add Route"
+#~ msgstr "Route erstellen"
+
+#~ msgid ""
+#~ "There has been a problem with installing the plugin. The plugin tried to "
+#~ "fix this, please try again."
+#~ msgstr ""
+#~ "Es gab Probleme bei der Installation des Plugins. Das Plugin hat versucht "
+#~ "das Problem selbst zu beheben. Bitte versuchen Sie es erneut."
+
+#~ msgid ""
+#~ "If the error still appears, please deactivete the plugin, activate it "
+#~ "again and try to add a route then."
+#~ msgstr ""
+#~ "Sollte das Problem weiterhin bestehen deaktivieren Sie das Plugin bitte "
+#~ "und aktivieren Sie es erneut. Versuchen Sie anschließend eine neue Route "
+#~ "zu erstellen."
+
+#~ msgid "Back to overview"
+#~ msgstr "Zurück zur Übersicht"
+
+#~ msgid "Your route has been saved!"
+#~ msgstr "Ihre Route wurde gespeichert!"
+
+#~ msgid "The code for this route is: "
+#~ msgstr "Der Code für diese Route ist: "
+
+#~ msgid "Map title"
+#~ msgstr "Kartentitel"
+
+#~ msgid "New map"
+#~ msgstr "Neue Karte"
+
+#~ msgid "Empty to use destination as title."
+#~ msgstr "Leer lassen um das Ziel als Titel zu verwenden."
+
+#~ msgid "Map type"
+#~ msgstr "Kartentyp"
+
+#~ msgid "Road map"
+#~ msgstr "Straßenkarte"
+
+#~ msgid "Satellite map"
+#~ msgstr "Satellitenkarte"
+
+#~ msgid "Hybrid map"
+#~ msgstr "Hybrid-Karte"
+
+#~ msgid "Physical map"
+#~ msgstr "Physikalische Karte"
+
+#~ msgid "Select how the map should look like."
+#~ msgstr "Lege fest, wie die Karte aussehen soll."
+
+#~ msgid "Map Zoom Control"
+#~ msgstr "Karten-Zoom Interface"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Select the type of zoom and direction control you want."
+#~ msgstr "Wählen Sie den Typ der Zoom-Steuerungselemente."
+
+#~ msgid "Pan Control"
+#~ msgstr "Schwenk-Kontrolle"
+
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgid "Enable or disable the pan control."
+#~ msgstr "Aktiere oder deaktivere die Schwenksteuerung."
+
+#~ msgid "Map Type Control"
+#~ msgstr "Kartentyp-Steuerung"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Hierarchical"
+#~ msgstr "Hierachisch"
+
+#~ msgid "Select if users can change the map type."
+#~ msgstr "Lege fest, ob der Benutzer den Kartentyp ändern kann."
+
+#~ msgid "General settings"
+#~ msgstr "Allgemeine Einstellungen"
+
+#~ msgid "Destination"
+#~ msgstr "Ziel"
+
+#~ msgid ""
+#~ "Add a search string for the destination. Adress, company name or "
+#~ "something like this."
+#~ msgstr ""
+#~ "Füge einen Such-Text für das Ziel ein. Eine Adresse, ein Firmenname oder "
+#~ "etwas Vergleichbares."
+
+#~ msgid "Please insert a destination"
+#~ msgstr "Bitte geben Sie ein Ziel ein"
+
+#~ msgid "Display Destination"
+#~ msgstr "Angezeigtes Ziel"
+
+#~ msgid "If you want a different name to show as title for the destination."
+#~ msgstr "Wenn Sie einen anderen Namen for das Ziel anzeigen lassen möchten."
+
+#~ msgid "Map width"
+#~ msgstr "Kartenbreite"
+
+#~ msgid "Enter the width for the map."
+#~ msgstr "Gib die Breite für die Karte ein."
+
+#~ msgid "Map heigth"
+#~ msgstr "Kartenhöhe"
+
+#~ msgid "Enter the height for the map."
+#~ msgstr "Gib die Höhe für die Karte ein."
+
+#~ msgid "Map Zoom"
+#~ msgstr "Karten-Zoom"
+
+#~ msgid "Auto-Detect users location"
+#~ msgstr "Automatische Erkennung des Benutzerstandorts"
+
+#~ msgid "Get coordinates"
+#~ msgstr "Koordinaten abrufen"
+
+#~ msgid "Get address"
+#~ msgstr "Adresse abrufen"
+
+#~ msgid "No detection"
+#~ msgstr "Keine autom. Erkennung"
+
+#~ msgid "This is based on HTML5 and will work best with mobile devices."
+#~ msgstr ""
+#~ "Dies basiert auf HTML5 und funktioniert mit mobilen Geräten am besten."
+
+#~ msgid "This only effects the route output, not the interface!"
+#~ msgstr ""
+#~ "Wirkt sich nur auf die Ausgabe der Route aus, nicht auf das Interface!"
+
+#~ msgid "Save route"
+#~ msgstr "Route speichern"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentation"
+
+#~ msgid "Theme the routeplanner"
+#~ msgstr "Gestaltung des Routenplaners"
+
+#~ msgid ""
+#~ "You can use your themes CSS file to edit how the routeplanners output "
+#~ "looks on your page."
+#~ msgstr ""
+#~ "Sie können die CSS-Datei Ihres Themes verwenden um zu bestimmen wie der "
+#~ "Routenplaner dargestellt werden soll."
+
+#~ msgid "Classes"
+#~ msgstr "Klassen"
+
+#~ msgid ""
+#~ "To effect all maps on your website you can use the following classes:"
+#~ msgstr ""
+#~ "Um alle Karten auf Ihrer Seite zu verändern können Sie die folgenden "
+#~ "Klassen verwenden:"
+
+#~ msgid "The area with the input field"
+#~ msgstr "Der Bereich mit den Eingabefeldern"
+
+#~ msgid "The map itself"
+#~ msgstr "Die Karte selbst"
+
+#~ msgid "The driving directions displayed below the map"
+#~ msgstr "Die Fahranweisungen unterhalb der Karte"
+
+#~ msgid "Example"
+#~ msgstr "Beispiel"
+
+#~ msgid ""
+#~ "This will set the background color for the directions of all maps to red."
+#~ msgstr ""
+#~ "Dies setzt die Hintergrundfarbe für die Fahranweisungen für alle Karten "
+#~ "auf rot."
+
+#~ msgid "IDs"
+#~ msgstr "IDs"
+
+#~ msgid "To effect only a specific map on your website you can use IDs."
+#~ msgstr ""
+#~ "Um nur eine bestimmte Karte auf Ihrer Seite zu verändern können Sie die "
+#~ "IDs nutzen."
+
+#~ msgid "You have to replace the $ with the maps ID."
+#~ msgstr "Sie müssen das $ mit der ID der Karte ersetzen."
+
+#~ msgid ""
+#~ "This will set the text color for the directions of the map with the ID 4 "
+#~ "to red."
+#~ msgstr ""
+#~ "Dies wird die Textfarbe für die Fahranzeigungen der Karte mit der ID 4 zu "
+#~ "rot ändern."
+
+#~ msgid "Translate the map"
+#~ msgstr "Die Karte übersetzen"
+
+#~ msgid ""
+#~ "You can set the default language you want to use in the plugins settings."
+#~ msgstr ""
+#~ "Sie können die Standardsprache für die Karte in den Einstellungen des "
+#~ "Plugins festlegen."
+
+#~ msgid ""
+#~ "Each map can have a different language. You can define the language when "
+#~ "creating or editing a route."
+#~ msgstr ""
+#~ "Jede Karte kann eine andere Sprache haben. Diese können Sie beim "
+#~ "Erstellen oder Bearbeiten einer Route festlegen."
+
+#~ msgid ""
+#~ "Since V3.1 this also effects the form above the map and not only the "
+#~ "driving directions."
+#~ msgstr ""
+#~ "Seit Version 3.1 beeinflusst dies auch das Formular oberhalb der Karte "
+#~ "und nicht nur die Fahranweisungen."
+
+#~ msgid ""
+#~ "If you want to change the translation or add one that is missing, go to "
+#~ "the plugins directory and copy the file <em>google-routeplaner-"
+#~ "translations.php</em> into your active themes directory."
+#~ msgstr ""
+#~ "Wenn Sie die Übersetzung ändern oder eine fehlende Übersetzung hinzufügen "
+#~ "möchten, gehen Sie in das Verzeichnis des Plugins und kopieren Sie die "
+#~ "Datei <em>google-routeplaner-translations.php</em> in den Ordner Ihres "
+#~ "aktiven Themes."
+
+#~ msgid ""
+#~ "Open the file with your prefered editor (I recommand <a href=\"http://"
+#~ "notepad-plus-plus.org/\">Notepad++</a>) and you will find code like this:"
+#~ msgstr ""
+#~ "Öffnen Sie die Datei mit Ihrem bevorzugten Editor (ich empfehle <a href="
+#~ "\"http://notepad-plus-plus.org/\">Notepad++</a>) und Sie finden Code der "
+#~ "etwa wie folgt aussieht:"
+
+#~ msgid ""
+#~ "This is the array for the english translation. Copy this to the bottom of "
+#~ "the file and change the language code <em>en</em> to the language code of "
+#~ "your language and translate the two phrases."
+#~ msgstr ""
+#~ "Dies ist das Array für die englische Übersetzung. Kopieren Sie dies ans "
+#~ "Ende der Datei und ändern Sie den Ländercode <em>en</em> zum Code Ihrer "
+#~ "Sprache und übersetzten Sie die beiden Texte."
+
+#~ msgid "For example, the german translation would look like this:"
+#~ msgstr "Die deutsche Übersetzung würde also so aussehen:"
+
+#~ msgid "Save the file and label and button will be translated."
+#~ msgstr ""
+#~ "Speichern Sie die Datei und Label und Button werden künftig übersetzt."
+
+#~ msgid "Edit Route"
+#~ msgstr "Route bearbeiten"
+
+#~ msgid "Your changes has been saved!"
+#~ msgstr "Die Änderungen wurden gespeichert!"
+
+#~ msgid "CSS Hooks"
+#~ msgstr "CSS Hooks"
+
+#~ msgid "Save changes"
+#~ msgstr "Änderungen speichern"
+
+#~ msgid "Import old database"
+#~ msgstr "Alte Datenbank importieren"
+
+#~ msgid "Old database deleted."
+#~ msgstr "Die alte Datenbank wurde gelöscht."
+
+#~ msgid "Back to main page"
+#~ msgstr "Zurück zur Hauptseite"
+
+#~ msgid ""
+#~ "Please use the checkbox to confirm you want to delete the old database."
+#~ msgstr ""
+#~ "Bitte verwenden Sie die Checkbox um zu bestätigen, dass Sie die alte "
+#~ "Datenbank löschen möchten."
+
+#~ msgid "Map ID %s to %s has been successfully imported!"
+#~ msgstr "Karten ID %s nach %s wurde erfolgreich importiert!"
+
+#~ msgid "You can now delete the old database."
+#~ msgstr "Sie können die alte Datenbank nun löschen."
+
+#~ msgid "You need to confirm that you use the import on your own risk."
+#~ msgstr ""
+#~ "Sie müssen bestätigen, dass Sie die Import-Funktion auf eigenes Risiko "
+#~ "verwenden."
+
+#~ msgid "Delete old database"
+#~ msgstr "Alte Datenbank löschen"
+
+#~ msgid ""
+#~ "After you imported the old database or if you do not want to import your "
+#~ "old maps at all you can delete the old database."
+#~ msgstr ""
+#~ "Nachdem Sie die alte Datenbank importiert haben oder falls Sie die alte "
+#~ "Datenbank nicht importieren möchten können Sie diese löschen."
+
+#~ msgid "Yes, I want to delete the old database!"
+#~ msgstr "Ja, ich möchte die alte Datenbank löschen!"
+
+#~ msgid "Old maps found"
+#~ msgstr "Alte Karten gefunden"
+
+#~ msgid "Map ID %s to %s"
+#~ msgstr "Karten ID %s nach %s"
+
+#~ msgid "Warning!"
+#~ msgstr "Warnung!"
+
+#~ msgid "To keep links to maps alive the importer will use the old map IDs."
+#~ msgstr ""
+#~ "Um Links auf die Karten zu erhalten wird die ID der alten Karten beim "
+#~ "Importvorgang beibehalten."
+
+#~ msgid ""
+#~ "If you created new maps before importing these map may will be "
+#~ "overwritten by the importer!"
+#~ msgstr ""
+#~ "Wenn Sie neue Karten vor dem Import erstellt haben werden diese eventuell "
+#~ "durch den Import überschrieben!"
+
+#~ msgid "Yes, I want to continue on my own risk!"
+#~ msgstr "Ja, ich möchte auf eigenes Risiko fortfahren!"
+
+#~ msgid "Arabic"
+#~ msgstr "Arabisch"
+
+#~ msgid "Basque"
+#~ msgstr "Baskisch"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Bulgarisch"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengali"
+
+#~ msgid "Catalan"
+#~ msgstr "Katalanisch"
+
+#~ msgid "Czech"
+#~ msgstr "Tschechisch"
+
+#~ msgid "Danish"
+#~ msgstr "Dänisch"
+
+#~ msgid "Greek"
+#~ msgstr "Griechisch"
+
+#~ msgid "English (Australian)"
+#~ msgstr "Englisch (Australien)"
+
+#~ msgid "English (Great britain)"
+#~ msgstr "Englisch (Großbritannien)"
+
+#~ msgid "Spanish"
+#~ msgstr "Spanisch"
+
+#~ msgid "Finnish"
+#~ msgstr "Finnisch"
+
+#~ msgid "Filipino"
+#~ msgstr "Philippinisch"
+
+#~ msgid "French"
+#~ msgstr "Französisch"
+
+#~ msgid "Galician"
+#~ msgstr "Galizisch"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgid "Croatian"
+#~ msgstr "Kroatisch"
+
+#~ msgid "Hungarian"
+#~ msgstr "Ungarisch"
+
+#~ msgid "Indonesian"
+#~ msgstr "Indonesisch"
+
+#~ msgid "Italian"
+#~ msgstr "Italienisch"
+
+#~ msgid "Hebrew"
+#~ msgstr "Hebräisch"
+
+#~ msgid "Japanese"
+#~ msgstr "Japanisch"
+
+#~ msgid "Kannada"
+#~ msgstr "Kannada"
+
+#~ msgid "Korean"
+#~ msgstr "Koreanisch"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Litauisch"
+
+#~ msgid "Latvian"
+#~ msgstr "Lettisch"
+
+#~ msgid "Malayalam"
+#~ msgstr "Malayalam"
+
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgid "Dutch"
+#~ msgstr "Holländisch"
+
+#~ msgid "Norwegian"
+#~ msgstr "Norwegisch"
+
+#~ msgid "Polish"
+#~ msgstr "Polnisch"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portugiesisch"
+
+#~ msgid "Portuguese (Brazil)"
+#~ msgstr "Portugiesisch (Brasilien)"
+
+#~ msgid "Portuguese (Portugal)"
+#~ msgstr "Portugiesisch (Portugal)"
+
+#~ msgid "Romanian"
+#~ msgstr "Rumänisch"
+
+#~ msgid "Russian"
+#~ msgstr "Russisch"
+
+#~ msgid "Slovak"
+#~ msgstr "Slowakisch"
+
+#~ msgid "Slovenian"
+#~ msgstr "Slowenisch"
+
+#~ msgid "Serbian"
+#~ msgstr "Serbisch"
+
+#~ msgid "Swedish"
+#~ msgstr "Schwedisch"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamilisch"
+
+#~ msgid "Thai"
+#~ msgstr "Thailändisch"
+
+#~ msgid "Turkish"
+#~ msgstr "Türkisch"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ukrainisch"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamesisch"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "Chinesisch (vereinfacht)"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "Chinesisch (traditionell)"
+
+#~ msgid "Really delete this route?"
+#~ msgstr "Diese Route wirklich löschen?"
+
+#~ msgid "Routes"
+#~ msgstr "Routen"
+
+#~ msgid "Create Route"
+#~ msgstr "Route erstellen"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Actions"
+#~ msgstr "Aktionen"
+
+#~ msgid "preview"
+#~ msgstr "Vorschau"
+
+#~ msgid "edit"
+#~ msgstr "bearbeiten"
+
+#~ msgid "delete"
+#~ msgstr "löschen"
+
+#~ msgid "You have not created any routes yet!"
+#~ msgstr "Sie haben noch keine Route angelegt!"
+
+#~ msgid "Rate it on WordPress.org"
+#~ msgstr "Bewerte das Plugin auf WordPress.org"
+
+#~ msgid "Support &amp; Feedback"
+#~ msgstr "Support &amp; Feedback"
+
+#~ msgid ""
+#~ "If you have trouble using this plugin, submit your ideas for future "
+#~ "development or simply want to let me know what you think please use my "
+#~ "Help Desk."
+#~ msgstr ""
+#~ "Wenn Sie bei der Verwendung des Plugins Probleme haben, Ihre Ideen für "
+#~ "die künftige Weiterentwicklung weitergeben möchten oder schlicht Ihre "
+#~ "Meinung zum Plugin abgeben möchten verwenden Sie bitte meine Help Desk "
+#~ "Software."
+
+#~ msgid ""
+#~ "Google Routeplanner generates a routeplanner based on the <a href="
+#~ "\"http://code.google.com/apis/maps/\">Google Maps API</a>."
+#~ msgstr ""
+#~ "Google Routeplanner erstellt einen Routenplaner auf Basis der <a href="
+#~ "\"http://code.google.com/apis/maps/\">Google Maps API</a>."
+
+#~ msgid ""
+#~ "We suggest adding a printer friendly stylesheet to your Wordpress design "
+#~ "to allow your users to print the route without the need to print design "
+#~ "elements. A tutorial how to do this can be found <a href=\"http://codex."
+#~ "wordpress.org/Styling_for_Print\">here</a>."
+#~ msgstr ""
+#~ "Wir empfehlen das hinzufügen eines druckfreundlichen Stylesheets zu Ihrem "
+#~ "Wordpress-Design. Dies erlaubt es Ihren Besuchern die Route ohne unnötige "
+#~ "Designelemente auszudrucken. Ein (englisches) Tutorial wie Sie dies "
+#~ "anstellen finden Sie <a href=\"http://codex.wordpress.org/"
+#~ "Styling_for_Print\">hier</a>."
+
+#~ msgid "News"
+#~ msgstr "Neuigkeiten"
+
+#~ msgid ""
+#~ "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to "
+#~ "check for updates."
+#~ msgstr ""
+#~ "Neuigkeiten-Feed konnte nicht geladen werden. Besuchen Sie die <a href=\"%"
+#~ "s\">Hauptseite</a> für weitere Informationen."
+
+#~ msgid "Untitled"
+#~ msgstr "Unbenannt"
+
+#~ msgid "Unknown"
+#~ msgstr "Unbekannt"
+
+#~ msgid "Delete Route"
+#~ msgstr "Route löschen"
+
+#~ msgid "The route has been deleted!"
+#~ msgstr "Die Route wurde gelöscht!"
+
+#~ msgid "Preview Route"
+#~ msgstr "Vorschau der Route"
+
+#~ msgid "Hide notice"
+#~ msgstr "Hinweis verbergen"
+
+#~ msgid ""
+#~ "Since version 3.5 the plugin has a new database structure. An old "
+#~ "database has been detected."
+#~ msgstr ""
+#~ "Seit Version 3.5 hat das Plugin eine neue Datenbank-Struktur. Es wurde "
+#~ "eine alte Datenbank gefunden."
+
+#~ msgid ""
+#~ "We can import most data from older databases, depending on how old the "
+#~ "database is."
+#~ msgstr ""
+#~ "Sie können die meisten Daten aus der alten Datenbank übernehmen, davon "
+#~ "abhängig wie alt die Datenbank ist."
+
+#~ msgid "Try import now"
+#~ msgstr "Jetzt importieren"
+
+#~ msgid "Routeplaner"
+#~ msgstr "Routenplaner"
+
+#~ msgid "Troubleshooting"
+#~ msgstr "Fehlerbehebung"
+
+#~ msgid "Import"
+#~ msgstr "Importieren"
+
+#~ msgid ""
+#~ "Developing this plugin and helping those who have trouble with it costs a "
+#~ "lot of time. Please consider a small donation using PayPal or Amazon."
+#~ msgstr ""
+#~ "Die Entwicklung dieses Plugins und die Supportarbeit kosten eine Menge "
+#~ "Zeit. Bitte ziehen Sie eine kleine Spende via PayPal oder Amazon in "
+#~ "Erwägung."
+
+#~ msgid "Show <em>Powered-by</em> below maps to support the developer."
+#~ msgstr ""
+#~ "Zeige <em>Powered-by</em> unter Karten um den Entwickler zu unterstützen."
+
+#~ msgid ""
+#~ "No <em>Powered-by</em> below maps, please consider another way to support "
+#~ "the developer."
+#~ msgstr ""
+#~ "Kein  <em>Powered-by</em> unter Karten, bitte ziehen Sie eine andere Form "
+#~ "der Unterstützung in Erwägung."
+
+#~ msgid ""
+#~ "Developing this plugin is a lot of work and completly free for you. You "
+#~ "can also get free support if you need help."
+#~ msgstr ""
+#~ "Die Entwicklung dieses Plugins ist viel Arbeit und für Sie komplett "
+#~ "kostenlos. Zudem erhalten Sie kostenlosen Support wenn Sie Hilfe "
+#~ "benötigen."
+
+#~ msgid "Please consider a small donation for my work."
+#~ msgstr "Über eine kleine Spende für meine Arbeit würde ich mich freuen."
+
+#~ msgid "Viewport settings"
+#~ msgstr "Viewport Einstellungen"
+
+#~ msgid ""
+#~ "If you have set your viewport with another plugin you can disable the "
+#~ "viewport output from this plugin."
+#~ msgstr ""
+#~ "Wenn Sie den Viewport mittels eines anderen Plugins bereits gesetzt haben "
+#~ "können Sie die Vieport-Ausgabe des Routenplaners deaktivieren."
+
+#~ msgid "Yes, use viewport."
+#~ msgstr "Ja, Viewport verwenden."
+
+#~ msgid "No, do NOT use viewport."
+#~ msgstr "Nein, Viewport nicht verwenden."
+
+#~ msgid ""
+#~ "You can set the language for the Google driving directions for all maps. "
+#~ "You can overwrite this setting for every map."
+#~ msgstr ""
+#~ "Sie können die Sprache für die Fahranweisungen von Google für alle Karten "
+#~ "einstellen. Sie können diese Einstellung für jede Karte überschreiben."
+
+#~ msgid ""
+#~ "Set language for driving information, this does not effect the interface."
+#~ msgstr ""
+#~ "Sprache für die Wegbeschreibung festlegen, dies wirkt sich nicht auf das "
+#~ "Interface aus."
+
+#~ msgid ""
+#~ "Since Version 3 of the API there is no more need for an API Key. But you "
+#~ "have more control and statistics over your API usage."
+#~ msgstr ""
+#~ "Seit Version 3 der API wird kein API-Schlüssel mehr benötigt. Sie können "
+#~ "allerdings trotzdem einen verwenden um erweiterte Kontrolle und "
+#~ "Statistiken zu erhalten."
+
+#~ msgid "You need a Google account to get an API Key."
+#~ msgstr ""
+#~ "Sie benötigen einen Google Account um einen API-Schlüssel zu bekommen."
+
+#~ msgid "Language errors"
+#~ msgstr "Sprachfehler"
+
+#~ msgid ""
+#~ "If you have two or more maps on the same page (or in multiple posts shown "
+#~ "on one page) you are not able to select different languages for each map."
+#~ msgstr ""
+#~ "Wenn Sie zwei oder mehr Karten auf der selben Seite (oder in mehreren "
+#~ "Beiträgen die auf der gleichen Seite angezeigt werden) haben, dann können "
+#~ "Sie keine unterschiedlichen Sprachen für jede Karte verwenden."
+
+#~ msgid "All maps will use the language used from the last loaded map."
+#~ msgstr "Alle Karten verwenden die Sprache der zuletzt geladenen Karte."
+
+#~ msgid "The only way to fix this is to put every map on it's own page."
+#~ msgstr ""
+#~ "Der einzige Weg dies zu beheben ist es, wenn Sie jede Karte auf einer "
+#~ "eigenen Seite platzieren."
+
+#~ msgid ""
+#~ "Some people had display error with the map like missing markers or seams "
+#~ "between parts of the map."
+#~ msgstr ""
+#~ "Einige Nutzer haben Anzeigefehler auf der Karte, wie etwa fehlende "
+#~ "Markierungen oder Ränder zwischen Teilen der Karte."
+
+#~ msgid ""
+#~ "This is most of the time caused by your theme and sadly this is also the "
+#~ "case with the <em>Twenty Eleven</em>."
+#~ msgstr ""
+#~ "In den meisten Fällen wird dieses Problem vom Theme verursacht, leider "
+#~ "betrifft dies auch <em>Twenty Eleven</em>."
+
+#~ msgid ""
+#~ "Please switch to the <em>Twenty Ten</em> to see if the theme is your "
+#~ "problem."
+#~ msgstr ""
+#~ "Bitte wechseln sie für einen Test auf <em>Twenty Ten</em> um zu sehen, ob "
+#~ "ihr Theme das Problem verursacht."
+
+#~ msgid ""
+#~ "If that is the case, you need to look into your themes CSS and try to "
+#~ "find the troublemaker there."
+#~ msgstr ""
+#~ "Wenn dies er Problem löst sollten Sie einen Blick in das CSS Ihres Themes "
+#~ "werfen und dort die Quelle des Problems suchen."
+
+#~ msgid "I can not give free support and fix your theme!"
+#~ msgstr ""
+#~ "Leider kann ich keinen kostenlosen Support anbieten, wenn Ihr Theme die "
+#~ "Ursache das Problems ist."
+
+#~ msgid "Trouble with Twenty Eleven"
+#~ msgstr "Probleme mit Twenty Eleven"
+
+#~ msgid ""
+#~ "As you can see, the zoom slider is broken and there are seams between map "
+#~ "parts with <em>Twenty Eleven</em>."
+#~ msgstr ""
+#~ "Wie Sie sehen ist die Zoom-Kontrolle defekt und der Übergang zwischen den "
+#~ "einzelnen Kartenteilen ist unter <em>Twenty Eleven</em> nicht korrekt."
+
+#~ msgid "No trouble with Twenty Ten"
+#~ msgstr "Keine Probleme mit Twenty Ten"
+
+#~ msgid ""
+#~ "Zoom slider is working and there and working and the map parts are "
+#~ "seamless with <em>Twenty Ten</em>."
+#~ msgstr ""
+#~ "Unter <em>Twenty Ten</em> wird die Zoom-Kontrolle korrekt angezeigt und "
+#~ "der Übergang zwischen den Kartenteilen ist korrekt."
+
+#~ msgid "Zoom only"
+#~ msgstr "Nur Zoom"
+
+#~ msgid "Error found! Running fix... please reload this page."
+#~ msgstr ""
+#~ "Fehler gefunden. Problem wird gelöst... bitte laden Sie die Seite erneut."
+
+#~ msgid "It seems something went really wrong with your database."
+#~ msgstr "Es scheint etwas ist mit der Datenbank schief gelaufen."
+
+#~ msgid ""
+#~ "Please deactivate the plugin, delete the google_routeplaner table from "
+#~ "your database and activate the plugin again to have a clean installation."
+#~ msgstr ""
+#~ "Bitte deaktivieren Sie das Plugin, löschen Sie die google_routeplaner-"
+#~ "Tabelle aus Ihrer Datenbank und aktivieren Sie das Plugin anschließend "
+#~ "erneut um eine saubere Installation zu erhalten."
+
+#~ msgid "Everything seems fine!"
+#~ msgstr "Alles okay!"
+
+#~ msgid "Take a look at my Amazon wishlist"
+#~ msgstr "Schauen Sie auf meine Amazon-Wunschliste"
+
+#~ msgid "Database integrity check"
+#~ msgstr "Datenbankprüfung"
+
+#~ msgid "Euskara"
+#~ msgstr "Euskaraisch"
+
+#~ msgid "Your location"
+#~ msgstr "Ihr Standort"
+
+#~ msgid "Create route"
+#~ msgstr "Route erstellen"
+
+#~ msgid "Support is currently not available for you."
+#~ msgstr "Support ist für Sie momentan nicht verfügbar."
+
+#~ msgid "Personal use"
+#~ msgstr "Private Nutzung"
+
+#~ msgid "Remove <em>Powered-by</em> (Support NOT available)"
+#~ msgstr "<em>Powered-by</em> entfernen (Support NICHT verfügbar)"
+
+#~ msgid ""
+#~ "I donated with PayPal or Amazon, remove <em>Powered-by</em> (Support "
+#~ "available)"
+#~ msgstr ""
+#~ "Ich habe via PayPal oder Amazon gespendet, <em>Powered-by</em> entfernen "
+#~ "(Support verfügbar)"
+
+#~ msgid "Commercial use"
+#~ msgstr "Kommerzielle Nutzung"
+
+#~ msgid "Show <em>Powered-by</em> below maps (Support NOT available)"
+#~ msgstr "Zeige <em>Powered-by</em> unter Karten (Support NICHT verfügbar)"
+
+#~ msgid "Uninstall"
+#~ msgstr "Deinstallieren"
+
+#~ msgid ""
+#~ "To completly remove this plugin and all database entries you need to use "
+#~ "this uninstall feature. If you only deactivate the plugin a lot of stuff "
+#~ "will remain in your database."
+#~ msgstr ""
+#~ "Um das Plugin vollständig zu entfernen und alle Datenbankeinträge zu "
+#~ "löschen verwenden Sie bitte diese Deinstallationsfunktion. Wenn Sie das "
+#~ "Plugin nur deaktivieren bleiben viele Daten in Ihrer Datenbank."
+
+#~ msgid "Yes, I want to uninstall Google Routeplaner"
+#~ msgstr "Ja, ich möchte Google Routeplaner deinstallieren"
+
+#~ msgid "Full Uninstall Google Routeplaner"
+#~ msgstr "Google Routeplaner komplett deinstallieren"
+
+#~ msgid "Donate this plugin"
+#~ msgstr "Dieses Plugin unterstützen"
+
+#~ msgid "Show a link under the maps"
+#~ msgstr "Einen Link unten den Karten anzeigen"
+
+#~ msgid "I write an articel about it"
+#~ msgstr "Ich schreibe einen Artikel darüber"
+
+#~ msgid "I donated with Paypal"
+#~ msgstr "Ich habe per PayPal gespendet"
+
+#~ msgid "I will not donate this project (you will not get support)"
+#~ msgstr ""
+#~ "Ich will das Projekt nicht unterstützen (Sie erhalten keinen Support)"
+
+#~ msgid "Could not find the start location. Please be more specific!"
+#~ msgstr ""
+#~ "Kann die Startposition nicht finden. Bitte geben Sie diese genauer ein."
+
+#~ msgid "Advance CSS"
+#~ msgstr "Erweitertes CSS"
+
+#~ msgid ""
+#~ "You can add css information for any element. Warning: This will result in "
+#~ "invalid HTML output."
+#~ msgstr ""
+#~ "Sie können erweitere CSS Informationen für jedes Kartenelement festlegen. "
+#~ "Achtung: Dadurch wird die HTML-Ausgabe invalide."
+
+#~ msgid ""
+#~ "If you encounter any problems feel free to use our <a href=\"http://"
+#~ "support.deformed-design.de\">Help Desk</a>."
+#~ msgstr ""
+#~ "Wenn Sie Probleme haben verwenden Sie unsere <a href=\"http://support."
+#~ "deformed-design.de\">Hilfe-Seite</a>."
+
+#~ msgid ""
+#~ "If you enjoy the plugin we would be glad about a small donation. If you "
+#~ "donated, please feel free to remove the authors notice below the map in "
+#~ "the settings menu."
+#~ msgstr ""
+#~ "Wenn Ihnen das Plugin gefällt würden wir uns über eine kleine Spende "
+#~ "freuen. Sollten Sie gespendet haben können Sie gerne den Hinweis auf den "
+#~ "Autoren unter dem Routenplaner in den Einstellungen des Plugins entfernen."
+
+#~ msgid "About"
+#~ msgstr "Über"
+
+#~ msgid "Display a small overview map."
+#~ msgstr "Zeigt eine kleine Übersichtskarte auf der großen Karte an."
+
+#~ msgid ""
+#~ "Google Routeplaner isn't ready yet. Please enter your Google Maps API Key "
+#~ "on the <a href=\"admin.php?page=google_routeplaner_settings\">settings "
+#~ "screen</a>."
+#~ msgstr ""
+#~ "Google Routeplaner ist noch nicht einsatzbereit. Bitte gib einen Google "
+#~ "Maps API Key auf der <a href=\"admin.php?page=google_routeplaner_settings"
+#~ "\">Einstellungsseite</a> ein."
+
+#~ msgid "Your Google Maps API Key"
+#~ msgstr "Dein Google Maps API Key"

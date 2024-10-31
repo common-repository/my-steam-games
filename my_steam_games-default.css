@@ -1,0 +1,71 @@
+/*
+ * Default style
+ * Edit your theme to make the table look like you want!
+ */ 
+
+#content table.my_steam_games {
+	border: 1px solid #777;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+}
+
+#content table.my_steam_games tr th,
+#content table.my_steam_games thead th {
+	color: #333;
+	font-weight: bold;
+	line-height: 18px;
+	padding: 9px 24px;
+	background: #777777; /* Old browsers */
+	background: -moz-linear-gradient(top, #777777 0%, #aaaaaa 49%, #777777 51%, #cccccc 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#777777), color-stop(49%,#aaaaaa), color-stop(51%,#777777), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #777777 0%,#aaaaaa 49%,#777777 51%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #777777 0%,#aaaaaa 49%,#777777 51%,#cccccc 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #777777 0%,#aaaaaa 49%,#777777 51%,#cccccc 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #777777 0%,#aaaaaa 49%,#777777 51%,#cccccc 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#777777', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+	vertical-align: middle;
+	text-shadow: 1px 1px 4px #FFF;
+}
+#content table.my_steam_games tr td {
+	border-top: 1px solid #777;
+	padding: 6px 24px;
+	vertical-align: top;
+}
+#content table.my_steam_games tr.odd td {
+	background: #DDD;
+}
+
+#content table.my_steam_games tr.even td {
+	background: #FFF;
+}
+
+#content div.my_steam_games_pagination {
+	margin: 15px 0;
+}
+
+#content div.my_steam_games_pagination span {
+	color: #FFF;
+	background: #333;
+	padding: 2px 4px;
+	border: 1px solid #777;
+}
+
+#content div.my_steam_games_pagination a {
+	color: #333;
+	padding: 2px 4px;
+	border: 1px solid #777;
+	text-decoration: none;
+}
+
+#content div.my_steam_games_pagination a:hover {
+	color: #FFF;
+	background: #777;
+	padding: 2px 4px;
+	border: 1px solid #777;
+	text-decoration: none;
+}
+
+#content p.my_steam_games_total {
+	text-align: right;
+}
